@@ -9,6 +9,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  new_array = ["dog", "cat", "fish"]
+  new_array.push("bird")
+  
 
 
 

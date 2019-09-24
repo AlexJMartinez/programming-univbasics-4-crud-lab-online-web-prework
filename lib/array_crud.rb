@@ -22,8 +22,8 @@ end
 
 def remove_element_from_end_of_array(array)
   new_array = ["fish", "dog", "arrays!"]
-  arrays! = new_array.pop
-  
+  new_array.pop
+
 
 
 

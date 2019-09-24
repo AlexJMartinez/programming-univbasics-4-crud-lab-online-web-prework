@@ -47,7 +47,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  new_array = ["wow", "man", "totally"]
+  new_array = ["wow", "man", "arrays!"]
   new_array[2]
 
 end

@@ -8,7 +8,7 @@ def create_an_array
 
 end
 
-def add_element_to_end_of_array(create_an_array.push ("bird")
+def add_element_to_end_of_array(create_an_array.push("bird")
 
 
 end

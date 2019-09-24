@@ -8,10 +8,7 @@ def create_an_array
 
 end
 
-def add_element_to_end_of_array(array, element)
-    ["fork", "plate", "pot"]
-add_element_to_end_of_array.push("pan")
-
+def add_element_to_end_of_array(create_an_array.push ("bird")
 
 
 end

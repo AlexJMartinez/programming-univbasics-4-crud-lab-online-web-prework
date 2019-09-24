@@ -21,8 +21,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  new_array = ["arrays!", "fish"]
-  fish = new_array.pop
+  new_array = ["fish", "dog", "arrays!"]
+  arrays!_array = new_array.pop
 
 
 

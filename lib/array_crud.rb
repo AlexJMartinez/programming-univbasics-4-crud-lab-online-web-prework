@@ -29,11 +29,13 @@ end
 def remove_element_from_start_of_array(array)
   new_array = ["wow", "dog", "fish"]
   new_array.shift
-  
 
 end
 
 def retrieve_element_from_index(array, index_number)
+  new_array = ["1", "2", "3"]
+  new_array[1]
+  
 
 end
 

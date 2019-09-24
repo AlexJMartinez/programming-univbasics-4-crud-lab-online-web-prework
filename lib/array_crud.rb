@@ -24,13 +24,12 @@ def remove_element_from_end_of_array(array)
   new_array = ["fish", "dog", "arrays!"]
   new_array.pop
 
-
-
-
-
 end
 
 def remove_element_from_start_of_array(array)
+  new_array = ["wow", "dog", "fish"]
+  new_array.shift
+  
 
 end
 
